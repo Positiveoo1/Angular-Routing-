@@ -1,0 +1,7 @@
+nav {
+    margin-left: 50px;
+    padding: 40px;
+}
+.active {
+    color: red;
+}
